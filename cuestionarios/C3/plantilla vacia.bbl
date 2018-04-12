@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{ref1}
+Principal debilidad de boosting (artículo de la referencia nº 15 de los
+  artículos referenciados al final de la página).
+\newblock \url{https://es.wikipedia.org/wiki/Boosting}.
+
+\bibitem{ref2}
+Principal debilidad de random forests (artículo de la referencia nº 8 de los
+  artículos referenciados al final de la página).
+\newblock \url{https://es.wikipedia.org/wiki/Random_forest}.
+
+\end{thebibliography}

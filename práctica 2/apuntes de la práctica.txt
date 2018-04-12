@@ -1,0 +1,31 @@
+f = function(u,v)
+{
+	dx = function()
+	{
+		u,v (hacen referencia a los de f)
+	}
+
+	dy = function()
+	{
+
+	}
+}
+
+#dx y dy no pueden usarse desde fuera.
+
+Buscamos wl vector de pesos(w) tal que f(w) es el minimo (minimizar f(w)). El punto mínimo de la función.
+Esto lo haremos mediante las derivadas parciales.
+
+
+Parámetros de la función del ejercicio 1:
+1-wini (punto inicial de w)
+2-tasa de aprendizaje mu.
+3-condicion de parada:	
+	-máximo de iteraciones
+	-diferencia entre dos puntos sucesivos sea pequeña.
+4-en el apartado 2 habremos de pasarle también la función.
+
+
+_____________
+
+habrá que implementar el algoritmo pocket.

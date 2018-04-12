@@ -1,0 +1,10 @@
+diagl(m) = -1
+
+o bien
+
+i = matriz(rep(1:4, each=2), byrow=T, ncol = 2)
+m[i]
+
+o bien
+
+m[row(m) == col(m)]
